@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
-				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/IA/AIC_BasicEnemy.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/IA/BasicEnemy_BP.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NQ/6SA82I0CAEO0GOVI66BP8F.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IR/J0HHUBKTGJBXPSXXXI9R7J.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/PZ/JNODICYCTYVJ2RHKYNGF7C.uasset"
 			]
 		}
 	]
