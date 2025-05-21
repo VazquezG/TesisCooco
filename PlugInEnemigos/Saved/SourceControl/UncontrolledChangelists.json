@@ -18,7 +18,28 @@
 				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/IA/BehabiourTrees/Tasks/BTTask_MoveRandomLocation.uasset",
 				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/IA/BehabiourTrees/BT_NPC.uasset",
 				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/IA/BehabiourTrees/BB_NPC.uasset",
-				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/IA/Prueva.uasset"
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/IA/Prueva.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/NPC_PlugIn/BP_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/NPC_PlugIn/AI_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/NPC_PlugIn/BehabiourTrees/Tasks/BTTask_MoveRandomLocation.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/NPC_PlugIn/BehabiourTrees/BT_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/Characters/NPC_PlugIn/BehabiourTrees/BB_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BP_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/AI_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/Tasks/BTTask_MoveRandomLocation.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/BT_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/BB_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/Asset_Data/Variables_AssetData/TypeOfBehabiour.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/Asset_Data/PAL_NPC_Variables.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/Asset_Data/DA_NPC.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/Asset_Data/PAD_NPC_Variables.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/BT_NPC_Agresivo.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/BB_NPC_Agresivo.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/BT_NPC_Amigable.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/BT_NPC_Neutral.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/BB_NPC_Amigable.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/BB_NPC_Neutral.uasset",
+				"D:/Unreal Projects/TesisCooco/PlugInEnemigos/Content/NPC_PlugIn/BehabiourTrees/Tasks/BTTask_InteractWhitPlayer.uasset"
 			]
 		}
 	]
