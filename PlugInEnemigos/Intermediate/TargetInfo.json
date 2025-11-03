@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PlugInEnemigos",
+			"Path": "..\\Source\\PlugInEnemigos.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlugInEnemigosEditor",
+			"Path": "..\\Source\\PlugInEnemigosEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

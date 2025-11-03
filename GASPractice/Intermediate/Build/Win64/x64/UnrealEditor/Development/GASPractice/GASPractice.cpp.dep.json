@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\tesiscooco\\gaspractice\\source\\gaspractice\\gaspractice.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\tesiscooco\\gaspractice\\intermediate\\build\\win64\\x64\\gaspracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\tesiscooco\\gaspractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gaspractice\\definitions.gaspractice.h",
+            "d:\\unreal projects\\tesiscooco\\gaspractice\\source\\gaspractice\\gaspractice.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

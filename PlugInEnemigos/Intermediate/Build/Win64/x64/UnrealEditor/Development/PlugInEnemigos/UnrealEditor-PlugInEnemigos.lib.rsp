@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PlugInEnemigos.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\PlugInEnemigosEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Enemy_NPC_DataAsset.gen.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Friendly_NPC_DataAsset.gen.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Neutral_NPC_DataAsset.gen.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\NPC_Basic_DataAsset.gen.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\NPC_BehaviourState.gen.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\PlugInEnemigos.init.gen.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\PlugInEnemigos.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\BehaviourState_NPC.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Enemy_NPC_DataAsset.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Friendly_NPC_DataAsset.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Neutral_NPC_DataAsset.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\NPC_Basic_DataAsset.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\PerModuleInline.gen.cpp.obj"
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Default.rc2.res"
+/OUT:"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\UnrealEditor-PlugInEnemigos.lib"

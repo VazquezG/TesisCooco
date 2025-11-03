@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GASPractice.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\TesisCooco\GASPractice\Intermediate\Build\Win64\x64\GASPracticeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Projects\TesisCooco\GASPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASPractice\GASPractice.cpp.obj"
+"D:\Unreal Projects\TesisCooco\GASPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASPractice\PerModuleInline.gen.cpp.obj"
+"D:\Unreal Projects\TesisCooco\GASPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASPractice\Default.rc2.res"
+/OUT:"D:\Unreal Projects\TesisCooco\GASPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASPractice\UnrealEditor-GASPractice.lib"

@@ -1,0 +1,53 @@
+"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Source\PlugInEnemigos\Private\Neutral_NPC_DataAsset.cpp"
+/FI"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\PlugInEnemigosEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Definitions.PlugInEnemigos.h"
+/Yu"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\PlugInEnemigosEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\PlugInEnemigosEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Neutral_NPC_DataAsset.cpp.obj"
+/experimental:log "D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Neutral_NPC_DataAsset.cpp.sarif"
+/sourceDependencies "D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\Neutral_NPC_DataAsset.cpp.dep.json"
+@"D:\Unreal Projects\TesisCooco\PlugInEnemigos\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlugInEnemigos\PlugInEnemigos.Shared.rsp"
+/d2ssa-cfg-question-
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/d2ExtendedWarningInfo
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++20
+/Zc:preprocessor
+/wd5054

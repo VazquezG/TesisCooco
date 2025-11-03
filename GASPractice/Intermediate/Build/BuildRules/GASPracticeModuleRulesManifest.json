@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\TesisCooco\\GASPractice\\Source\\GASPractice\\GASPractice.Build.cs",
+		"D:\\Unreal Projects\\TesisCooco\\GASPractice\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"D:\\Unreal Projects\\TesisCooco\\GASPractice\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"D:\\Unreal Projects\\TesisCooco\\GASPractice\\Source\\GASPractice.Target.cs",
+		"D:\\Unreal Projects\\TesisCooco\\GASPractice\\Source\\GASPracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

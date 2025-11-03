@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\tesiscooco\\pluginenemigos\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pluginenemigos\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\tesiscooco\\pluginenemigos\\intermediate\\build\\win64\\x64\\pluginenemigoseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\tesiscooco\\pluginenemigos\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pluginenemigos\\definitions.pluginenemigos.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

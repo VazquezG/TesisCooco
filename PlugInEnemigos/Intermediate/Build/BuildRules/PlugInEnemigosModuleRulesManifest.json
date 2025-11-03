@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\TesisCooco\\PlugInEnemigos\\Source\\PlugInEnemigos\\PlugInEnemigos.Build.cs",
+		"D:\\Unreal Projects\\TesisCooco\\PlugInEnemigos\\Source\\PlugInEnemigos.Target.cs",
+		"D:\\Unreal Projects\\TesisCooco\\PlugInEnemigos\\Source\\PlugInEnemigosEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
